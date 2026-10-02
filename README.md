@@ -1,6 +1,6 @@
 # Cortex-1 Large vs Jev — Complete Independent Evaluation Report
 
-[Quick Preview](./PREVIEW.md)
+[FULL LOG](./Cortex1_Complete_Test_Log.md) 
 
 **Date of Testing:** 1–2 October 2026  
 **Evaluator:** Independent testing via Google Colab (free T4 GPU) + live Jev API  
